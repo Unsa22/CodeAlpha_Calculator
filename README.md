@@ -1,3 +1,3 @@
 # CodeAlpha_Calculator
 
-This is my third task of Internship at CodeSoft.
+This is my third task of Internship at Code Alpha.
